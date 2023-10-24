@@ -14,3 +14,7 @@ To install a mod, follow these steps:
 4. Put the `.pak` mod file inside the "mods" folder.
 
 To uninstall a mod, simply remove the `.pak` corresponding to the mod.
+
+## Mods
+
+
